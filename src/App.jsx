@@ -27,6 +27,32 @@ const developers = [
     pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
     salary: "$75,000"
   },
+  
+  {
+    name: "Jane Smith",
+    bio: "Front-end developer with a focus on responsive design and user experience.",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    salary: "$75,000"
+  },
+  
+  {
+    name: "Jane Smith",
+    bio: "Front-end developer with a focus on responsive design and user experience.",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    salary: "$75,000"
+  },
+  {
+    name: "Jane Smith",
+    bio: "Front-end developer with a focus on responsive design and user experience.",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    salary: "$75,000"
+  },
+  {
+    name: "Jane Smith",
+    bio: "Front-end developer with a focus on responsive design and user experience.",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    salary: "$75,000"
+  },
   // ... other developers
 ];
 
