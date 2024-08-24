@@ -10,9 +10,9 @@ const developers = [
     salary: "$70,000"
   },
   {
-    name: "Sara Ali",
+    name: "Claoudia Ali",
     bio: "Full-stack developer with a knack for creating dynamic web applications.",
-    pic: "https://cdn.mos.cms.futurecdn.net/TMwgmGnY6vLXqdZSupTiaR-320-80.jpg",
+    pic: "https://consequence.net/wp-content/uploads/2022/07/the-boys-claudia-doumit-3.jpg",
     salary: "$85,000"
   },
   {
@@ -22,23 +22,23 @@ const developers = [
     salary: "$90,000"
   },
   {
-    name: "Jane Smith",
+    name: "Butcher Smith",
     bio: "Front-end developer with a focus on responsive design and user experience.",
     pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
     salary: "$75,000"
   },
   
   {
-    name: "Jane Smith",
+    name: "NoirSmith",
     bio: "Front-end developer with a focus on responsive design and user experience.",
-    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    pic: "https://variety.com/wp-content/uploads/2022/07/The-Boys.jpg?w=1000&h=563&crop=1",
     salary: "$75,000"
   },
   
   {
     name: "Jane Smith",
     bio: "Front-end developer with a focus on responsive design and user experience.",
-    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    pic: "https://media.wired.com/photos/5f889ca7114b38fa1f833a2d/master/pass/Culture_the-boys-season-2-THBY_S2_Unit_203_6805RC_rgb.jpg",
     salary: "$75,000"
   },
   {
@@ -48,18 +48,18 @@ const developers = [
     salary: "$75,000"
   },
   {
-    name: "Jane Smith",
+    name: "Jath",
     bio: "Front-end developer with a focus on responsive design and user experience.",
     pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
     salary: "$75,000"
   },
   {
-    name: "Jane Smith",
+    name: "Smith",
     bio: "Front-end developer with a focus on responsive design and user experience.",
-    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_nKyNVLePv2ZPFkiNGPoqGfysWIHk7XtS2w&s",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5f7Nu4pNcvaeUX6Grvl-0SR78X0ZaJQRLMA&s",
     salary: "$75,000"
   },
-  // ... other developers
+  
 ];
 
 function App() {
